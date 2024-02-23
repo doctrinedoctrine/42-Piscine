@@ -5,6 +5,8 @@ UYARI!! Projelerde küçük değişiklikler her zaman yapılmakta, bu kodları i
 
 Bazı projelerde main fonksiyonları yazılmamış olabilir, kendinizin yazmayı denemesini öneririm :D
 
+BSQ ve RUSH01 tamamlanmamışdır, fikir almak için kullanabilirsiniz.
+
 Shell00 - Introduction to Unix
 
 C00 - Introduction to C
