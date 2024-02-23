@@ -10,20 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-void	ft_ultimate_ft(int *****nbr)
+void	ft_ultimate_ft(int *********nbr)
 {
-	*****nbr = 42;
-}
-
-#include <stdio.h>
-int main(void)
-{
-	int a = 0;
-	int *ptr = &a;
-	int **ptr1 = &ptr;
-	int ***ptr2 = &ptr1;
-	int ****ptr3 = &ptr2;
-	int *****ptr4 = &ptr3;
-	ft_ultimate_ft(ptr4);
-	printf("%d" , a);
+	*********nbr = 42;
 }

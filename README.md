@@ -1,6 +1,10 @@
 # 42-Piscine
 42 Okulları havuz dönemi boyunca tamamladığım tüm projeler bu repoda bulunmaktadır.
 
+UYARI!! Projelerde küçük değişiklikler her zaman yapılmakta, bu kodları incelemeden copy paste yapmak hataya sebep verebilir.
+
+Bazı projelerde main fonksiyonları yazılmamış olabilir, kendinizin yazmayı denemesini öneririm :D
+
 Shell00 - Introduction to Unix
 
 C00 - Introduction to C
@@ -17,6 +21,6 @@ C05 - Mathematical Concepts in C
 
 C06 - Understanding Argc and Argv
 
-Rush01 - Skyscraper puzzle
+Rush01 - Skyscraper puzzle  FAIL
 
-BSQ - ????????????????
+BSQ - ????????????????  FAIL
